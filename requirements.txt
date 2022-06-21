@@ -78,7 +78,7 @@ nbformat==4.4.0
 networkx==2.3
 nltk==3.4.4
 notebook==6.0.0
-numpy==1.16.4
+numpy==1.22.0
 numpydoc==0.9.1
 oauth2client==3.0.0
 olefile==0.46
