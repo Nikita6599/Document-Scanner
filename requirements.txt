@@ -73,7 +73,7 @@ mkl-service==2.0.2
 mock==3.0.5
 murmurhash==1.0.0
 Naked==0.1.31
-nbconvert==5.5.0
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
 nltk==3.4.4
