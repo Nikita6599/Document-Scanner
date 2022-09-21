@@ -119,7 +119,7 @@ PySocks==1.7.0
 pytesseract==0.2.9
 python-dateutil==2.8.0
 python-firebase==1.2
-python-jwt==2.0.1
+python-jwt==3.3.4
 pytz==2019.1
 PyWavelets==1.0.3
 pywin32==223
